@@ -1,0 +1,8 @@
+*.testcases
+*.out
+*.exe
+*.app
+*.bin
+!*.cpp
+!*.md
+
