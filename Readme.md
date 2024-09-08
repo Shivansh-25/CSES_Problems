@@ -7,5 +7,7 @@
 - [x] Increasing Array
 - [x] Permutations 
 
-*7th Sept 2024*
+*8th Sept 2024*
+- [x] Number Spiral
+
 
