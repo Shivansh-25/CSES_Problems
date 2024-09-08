@@ -12,3 +12,5 @@
 - [x] Two Knights
 - [x] Two Sets
 - [x] Bit Strings 
+- [x] Trailing Zeroes 
+
