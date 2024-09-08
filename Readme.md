@@ -9,5 +9,5 @@
 
 *8th Sept 2024*
 - [x] Number Spiral
-
+- [x] Two Knights
 
