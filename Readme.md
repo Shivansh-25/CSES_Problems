@@ -11,4 +11,4 @@
 - [x] Number Spiral
 - [x] Two Knights
 - [x] Two Sets
-
+- [x] Bit Strings 
