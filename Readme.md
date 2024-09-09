@@ -14,3 +14,8 @@
 - [x] Bit Strings 
 - [x] Trailing Zeroes 
 
+*9th Sept 2024*
+- [x] Coin Piles
+- [x] Palindrome Reorder
+- [x] Gray Code
+
