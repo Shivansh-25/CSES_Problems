@@ -1,3 +1,6 @@
+// This problem took too much time ... idk why but i was unabel to wrap my head around how this recursion stack was working
+// got it now tho... GG
+
 #include <algorithm>
 #include <array>
 #include <bitset>
@@ -19,12 +22,12 @@ using namespace std;
 
 #define int long long
 
-void solve(int n, int start, int aux, int to) {
+void solve(int n, int start, int use, int end) {
   if (n == 0)
     return;
-  solve(n - 1, start, to, aux);
-  cout << start << " " << to << endl;
-  solve(n - 1, aux, start, to);
+  solve(n-1, start, end, use);
+  cout << start << " " << end << endl;
+  solve(n-1, use, start ,end);
 }
 
 signed main() {

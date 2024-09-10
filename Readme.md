@@ -19,3 +19,7 @@
 - [x] Palindrome Reorder
 - [x] Gray Code
 
+*10th Sept 2024*
+- [x] Tower of Hanoi
+- [x] Creating Strings 
+_I need to revise Recursion before proceeding_
