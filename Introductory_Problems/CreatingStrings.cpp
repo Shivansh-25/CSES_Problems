@@ -16,6 +16,7 @@ void permute(string &s, int l, int r) {
     }
 // merge conflict
 // hello there first edit
+// tera nhi lunga is baar
 
     for (int i = l; i <= r; i++) {
         swap(s[l], s[i]);
