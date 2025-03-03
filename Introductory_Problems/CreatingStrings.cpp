@@ -14,6 +14,7 @@ void permute(string &s, int l, int r) {
         permutations.insert(s);
         return;
     }
+ // hello there first edit
 
     for (int i = l; i <= r; i++) {
         swap(s[l], s[i]);
